@@ -1,6 +1,6 @@
 # Hello World for Intel SGX
 
-This can be used as a template for applications based on Intel SGX SDK.
+The code is basically the sample code from Intel SGX SDK, but striped of the "payload". This can be used as a template for applications based on Intel SGX SDK.
 
 To build and run, use the following command
 
